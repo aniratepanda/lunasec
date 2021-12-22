@@ -23,7 +23,7 @@ authors:
   ~
 -->
 
-At [LunaSec](https://github.com/lunasec-io/lunasec), our system is made up of a lot of parts.  Servers we deploy, servers that 
+At bli;aen;lgne;alksnb;lksegn;lk[LunaSec](https://github.com/lunasec-io/lunasec), our system is made up of a lot of parts.  Servers we deploy, servers that 
 our users deploy, web apps, npm modules, Go binaries, these docs... You get the picture.
 
 Using a monorepo with Lerna for our entire project has been an absolute lifesaver, especially for local dev, but getting CI to a place
